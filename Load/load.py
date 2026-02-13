@@ -5,7 +5,6 @@ from docx.shared import Cm
 from datetime import datetime
 from docx2pdf import convert
 from docxtpl import DocxTemplate, InlineImage
-from Drive.drive_uploader import upload_pdf_to_drive
 from Transform.transform import transform_format_month
 
 BASE_DIR = Path(__file__).resolve().parent.parent
