@@ -21,4 +21,4 @@ El usuario solo necesita un archivo Excel con los datos de los destinatarios, y 
 ## ⚙️ Requisitos
 
 - Python 3.8 o superior
-- Dependencias listadas en `requisitos.txt`
+- Dependencias listadas en `requirements.txt`
