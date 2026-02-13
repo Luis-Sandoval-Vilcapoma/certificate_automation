@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.xlsx
+*.pdf
+# Sistema
+.DS_Store
+Thumbs.dbCredentials/token.pickle
